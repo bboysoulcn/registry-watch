@@ -6,6 +6,6 @@ thanks for Nova Kwok
 
 ### use
 
-please change registry_path variable
+please change `registry_path` variable
 
-then `then python3 registry-watch.py`
+then ` python3 registry-watch.py`
